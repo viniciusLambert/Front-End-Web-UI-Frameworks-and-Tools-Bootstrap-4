@@ -1,24 +1,16 @@
 {
-  "name": "front-end-web-ui-framework-and-tools-bootstrap-4",
+  "name": "confusion",
   "version": "1.0.0",
-  "description": "Coursera full stack web develop. course 1",
+  "description": "This is a website for Ristorante Con Fusion",
   "main": "index.html",
   "scripts": {
-    "start":"npm run lite",
+    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lite":"lite-server"
+    "lite": "lite-server"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/viniciusLambert/Front-End-Web-UI-Frameworks-and-Tools-Bootstrap-4.git"
-  },
-  "author": "Vinicius Lambert",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/viniciusLambert/Front-End-Web-UI-Frameworks-and-Tools-Bootstrap-4/issues"
-  },
-  "homepage": "https://github.com/viniciusLambert/Front-End-Web-UI-Frameworks-and-Tools-Bootstrap-4#readme",
-  "devDependencies":{
-  "lite-server": "^2.2.2"
+    "devDependencies": {
+    "lite-server": "^2.3.0"
   }
 }
